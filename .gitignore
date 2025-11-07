@@ -1,2 +1,4 @@
 # Modulos Node
 node_modules/
+/src/generated/prisma
+.env
